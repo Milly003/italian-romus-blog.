@@ -20,7 +20,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
       botaoInscrever.textContent = botaoInscrever.classList.contains("inscrito")
         ? "Inscrito"
-        : "Inscrever-se";
+        : "Inscreva-se";
     });
   }
 
@@ -149,3 +149,4 @@ window.addEventListener("DOMContentLoaded", () => {
     }, 3000);
   }
 });
+
